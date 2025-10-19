@@ -1,8 +1,5 @@
 include:
-  - board: seeeduino_xiao
-    shield: revxlp
-    artifact-name: revxlp_xiao
   - board: seeeduino_xiao_ble
     shield: revxlp
     artifact-name: revxlp_xiao_ble
-    
+
